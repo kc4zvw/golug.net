@@ -99,7 +99,7 @@ whatever road Linux leads us.
 
 * [GOLUG FAQ](?sub/faq)
 * [GOLUG Photos](?sub/photos)
-* [Mailing List Guidelines](?sub/guidelines)
+* [Mailing List Rules](?sub/guidelines) &#8210; to keep the mail list friendly and to have more signal than noise
 * [GOLUG Links](?sub/links)
 
 ## About this site and it&#39;s creation

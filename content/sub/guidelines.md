@@ -7,7 +7,7 @@ Robots: noindex,nofollow
 Template: index
 ---
 
-## GoLUG Mailing List Rules
+## GOLUG Mailing List Rules
 
 These rules are designed to keep our lists fun and helpful:
 
@@ -25,4 +25,4 @@ not about the person posting it. Personal insults won't be tolerated on any of o
 list, and very likely to create ill feelings and stimulate flames.
 
 --------------------
-Revised: Thursday, December 17, 2015 at 12:01:08 PM (EST)
+Revised: Saturday, December 19, 2015 at 18:11:43 PM (EST)

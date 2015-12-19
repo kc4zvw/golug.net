@@ -11,7 +11,9 @@ Template: index
 
 ## Welcome to GOLUG Links
 
-* [Melbourne Linux User Group](http://www.mlinux.org/)
+* [LEAP-CF](http://leap-cf.net/)
+* [Orlando BSD user group](http://www.orlandobsd.us/)
+* [Orlando Python Workgroup](http://orlandopy.ddns.net/)
 
 --------------------
-Revised: Thursday, December 17, 2015 at 11:33:42 AM (EST)
+Revised: Saturday, December 19, 2015 at 18:13:14 PM (EST)
